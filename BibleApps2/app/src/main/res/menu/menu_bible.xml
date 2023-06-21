@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_reading_plan"
+        android:title="Reading Plan" />
+    <item
+        android:id="@+id/menu_daily_verse"
+        android:title="Daily Verse" />
+    <item
+        android:id="@+id/menu_bible_dictionary"
+        android:title="Dictionary Alkitab" />
+
+    <item
+        android:id="@+id/menu_main"
+        android:title="Main Menu" />
+
+</menu>

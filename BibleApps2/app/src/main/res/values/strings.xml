@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BibleApps</string>
+    <string name="title_activity_reading_plan">ReadingPlanActivity</string>
+    <string name="title_activity_dictionary_bible">DictionaryBibleActivity</string>
+    <string name="title_activity_daily_verse">DailyVerseActivity</string>
+    <string name="title_activity_book_adapter">BookAdapter</string>
+    <string name="title_activity_history_adapter">HistoryAdapter</string>
+</resources>
